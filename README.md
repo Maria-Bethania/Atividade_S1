@@ -1,21 +1,31 @@
 # Atividade Semanal - S1
 
-        Criar e conectar um repositório local ao GitHub.
+        Conexão de Repositório Local ao GitHub
 
-## Instruções:
+## Descrição:
 
-        Abra seu terminal ou prompt de comando.
-        Navegue até o diretório onde deseja criar o repositório.
-        Execute o comando git init para inicializar um novo repositório local.
-        Acesse o GitHub em seu navegador.
-        Faça login em sua conta.
-        Clique em "+", no canto superior direito, e selecione "Novo repositório".
-        Dê um nome ao seu repositório, defina sua visibilidade e outras configurações conforme necessário.
-        Clique em "Criar repositório".
-        Copie a URL do repositório do GitHub.
-        No terminal, use o comando git remote add origin URL_DO_REPOSITÓRIO para conectar o repositório local ao do GitHub. Substitua "URL_DO_REPOSITÓRIO" pela URL que você copiou.
-        No terminal, use um editor de texto para criar um arquivo chamado README.md.
+        O objetivo é conectar um repositório local ao GitHub;
+        Permite o versionamento e compartilhamento de projetos.
 
-        No terminal, use o comando git add . para adicionar todos os arquivos ao commit.
-        Execute git commit -m "Primeiro commit" para realizar o commit com uma mensagem descritiva.
-        Use git push -u origin master para enviar os arquivos do repositório local para o GitHub.
+# Acesse [aqui](link) o passo a passo detalhado.
+
+
+ <div>
+  <a href="https://github.com/Maria-Bethania">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Maria-Bethania&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="90em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maria-Bethania&layout=compact&langs_count=16&theme=dracula"/>
+</div>
+
+
+<div style="display: inline_block"><br>
+
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg">
+  <img align="center" alt="Google Cloud" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg">
+
+
+<div>
+  
+  <a href="https://www.linkedin.com/in/mariabethania" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
+
