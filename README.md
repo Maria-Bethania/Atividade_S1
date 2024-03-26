@@ -54,7 +54,4 @@
         Ao seguir este passo a passo, é possível conectar o repositório local ao GitHub;
         Permite o versionamento e compartilhamento dos projetos de forma mais eficaz.
 
-<div>
-  
-  <a href="https://www.linkedin.com/in/mariabethania" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+
