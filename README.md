@@ -23,7 +23,7 @@
 * No arquivo "README.md", detalhar o exercício;
 * No github do navegador, criar um novo repositório;
 
-        Acessar o site do GitHub [aqui](gitub.com), fazer login ou criar uma conta, e criar um novo repositório.
+        Acessar o site do GitHub, fazer login ou criar uma conta, e criar um novo repositório.
 
 * Novamente, no terminal do VS Code, colocar o comando: git add . 
 
@@ -37,7 +37,7 @@
 
         Renomeia o branch principal para "main".
 
-* Ainda no terminal do VSCode, entre com: git remote add origin [URL desejada](https://github.com/Maria-Bethania/Atividade_S1.git);
+* Ainda no terminal do VSCode, entre com: git remote add origin URL desejada;
 
 *Por fim, no terminal do VSCode, escreva: $ git push -u origin main;
 
